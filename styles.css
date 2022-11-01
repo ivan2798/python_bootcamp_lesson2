@@ -1,0 +1,37 @@
+header{
+    width: 960px;
+    height: 70px;
+    background-color: #02f042;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#marca{
+    width: 200px;
+    height: 70px;
+    background-color: #f70a0a;
+    float: left;
+}
+
+#botonera_principal{
+    width: 400px;
+    height: 70px;
+    background-color: #111c69;
+    float: right;
+}
+
+#contenido_principal{
+    width: 960px;
+    height: 800px;
+    background-color: #cce8df;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+footer{
+    width: 960px;
+    height: 180px;
+    background-color: #080808;
+    margin-left: auto;
+    margin-right: auto;
+}
