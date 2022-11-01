@@ -20,12 +20,61 @@ header{
     float: right;
 }
 
-#contenido_principal{
+section#contenido_principal{
     width: 960px;
     height: 800px;
     background-color: #cce8df;
     margin-left: auto;
     margin-right: auto;
+}
+
+#imagen1{
+    width: 350px;
+    height: 300px;
+    background-color: #37e320;
+    float: left;
+    margin-bottom: 10px;
+}
+
+#presentacion{
+    width: 600px;
+    height: 300px;
+    background-color: #520b3b;
+    float: right;
+    margin-bottom: 10px;
+}
+
+#texto_contenido{
+    width: 250px;
+    height: 300px;
+    background-color: #520b3b;
+    float: left;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+
+#imagen2{
+    height: 300px;
+    width: 400px;
+    background-color: #89d141;
+    float: left;
+    margin-bottom: 10px;
+}
+
+#destacado{
+    width: 250px;
+    height: 300px;
+    background-color: #30332c;
+    float: right;
+    margin-bottom: 10px;
+  
+}
+
+#complementario{
+    width: 960px;
+    height: 180px;
+    background-color: #522557;
+    clear: both;
 }
 
 footer{
@@ -34,4 +83,18 @@ footer{
     background-color: #080808;
     margin-left: auto;
     margin-right: auto;
+}
+
+#datos{
+    width: 300px;
+    height: 180px;
+    background-color: #28cee0;
+    float: left;
+}
+
+#redes{
+    width: 350px;
+    height: 35px;
+    background-color: #3f43b5;
+    float: right;
 }
